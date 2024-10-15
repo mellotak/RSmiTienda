@@ -12,3 +12,6 @@ venv/
 
 # Ignorar archivos de logs
 *.log
+
+# Ignorar carpeta de imágenes en static
+static/images/
